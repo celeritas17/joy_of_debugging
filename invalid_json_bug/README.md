@@ -1,0 +1,13 @@
+## Invalid JSON
+
+While in the `invalid_json_bug` directory, start the python http server by typing `python -m SimpleHTTPServer` and navigate to
+localhost:8000 in your browser to reproduce the bug. 
+
+The script `main.js` fetches a json file that contains a greeting ("Hello, World"), and adds the greeting to index.html.
+We should see this: 
+[[https://github.com/celeritas17/repository/joy\_of\_debugging/master/invalid\_json\_bug/good\_output.png|alt=good_output]]
+
+But instead we see this: 
+[[https://github.com/celeritas17/repository/joy\_of\_debugging/master/invalid\_json\_bug/bad\_output.png.png|alt=bad_output]]
+
+#Why?
