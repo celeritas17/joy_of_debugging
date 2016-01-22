@@ -1,5 +1,5 @@
 {
 	"test": true,
 	"greeting": "Hello, World",
-	"invalidJSON": "\'Hello, World\'"
+	"bad": "\'Hello, World\'"
 }
