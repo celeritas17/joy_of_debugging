@@ -19,3 +19,5 @@ But instead we see this:
 ![Bad output](https://raw.githubusercontent.com/celeritas17/joy_of_debugging/master/invalid_json_bug/bad_output.png)
 
 #Why?
+
+Go [here](https://rkoven.svbtle.com/the-joy-of-debugging-or-finding-out-how-things-dont-work) to find out. 
